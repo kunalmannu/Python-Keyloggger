@@ -6,14 +6,14 @@ YOU SHOULD HAVE AN @outlook.com EMAIL ACCOUNT TO SEND KEYLOGS TO YOUR @outlook.c
 
 # Requirements
 Python Environment
-os
-keyboard
-smtplib
-threading
-datetime
-email
-email.mime.multipart
-email.mime.text
-MIMEMultipart
-MIMEText
+os &
+keyboard &
+smtplib &
+threading &
+datetime &
+email &
+email.mime.multipart &
+email.mime.text &
+MIMEMultipart &
+MIMEText &
 Timer
